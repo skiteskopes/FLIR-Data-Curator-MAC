@@ -1,0 +1,3 @@
+([('data_curation',
+   '/Users/Andres/Desktop/FLIR-Data-Curator-MAC-master-2/dist/data_curation',
+   'EXECUTABLE')],)
